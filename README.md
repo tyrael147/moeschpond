@@ -1,4 +1,4 @@
-# Make Moescherg Great Again
+# Make Moescherg Even Greater
 
 Repository of the development of the LCA analysis 
 
