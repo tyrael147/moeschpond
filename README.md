@@ -2,7 +2,7 @@
 
 Repository of the development of the LCA analysis 
 
-# Instructions the repo
+## Instructions the repo
 
 A github account is required. The following instruction allow authentication and cloning:
 
