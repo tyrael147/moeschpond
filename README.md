@@ -1,3 +1,5 @@
+![alt text](https://i.ibb.co/Jd6LTmy/Untitled-1.png)
+
 # Make Moeschberg Even Greater
 
 Repository of the development of the LCA analysis 
@@ -28,3 +30,10 @@ git push
 ```
 
 
+## About the calculations
+
+- `data_search.ipynb` is used to explore and obtain ids, names, and metada.
+- `premise.ipynb` is used to generate different premise databases and export everything as a *.tar.gz file
+- `premise importer.ipynb` is required to load the *.tar.gx (built in in bw2) and write it in disk. This is mandatory since bw5 cannot read and write bw2 projetcs from memory, only from disk
+- `Wood pellets regionalized Nicolas.ipynb` contains the steps to regionalize background nodes without altering the original database
+- `LCA_foreground.ipynb` shows the steps followed to generate the scenario analysis with premise.

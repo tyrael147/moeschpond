@@ -1,0 +1,21 @@
+,row,col,from,to,data
+0,6599,213979,"electricity production, hydro, run-of-river","electricity supply, Energie Grosshoechstetten AG, 2021, guarantees of origin",0.907
+1,6599,213980,"electricity production, hydro, run-of-river","electricity, subsidised, 2021",0.32
+2,8302,213981,"operation, solar collector system, Cu flat plate collector, one-family house, for hot water","heat supply, Hotel Moeschberg, 2021",0.004668
+3,9036,213981,"heat production, air-water heat pump 10kW","heat supply, Hotel Moeschberg, 2021",0.0
+4,10319,213980,"electricity production, wind, 1-3MW turbine, onshore","electricity, subsidised, 2021",0.02
+5,18352,213978,"electricity production, photovoltaic, 3kWp slanted-roof installation, multi-Si, panel, mounted","electricity supply, Hotel Moeschberg, 2021",0.4406
+6,18352,213979,"electricity production, photovoltaic, 3kWp slanted-roof installation, multi-Si, panel, mounted","electricity supply, Energie Grosshoechstetten AG, 2021, guarantees of origin",0.026
+7,18352,213980,"electricity production, photovoltaic, 3kWp slanted-roof installation, multi-Si, panel, mounted","electricity, subsidised, 2021",0.46
+8,20079,213980,"heat and power co-generation, wood chips, 6667 kW, state-of-the-art 2014","electricity, subsidised, 2021",0.2
+9,21426,213981,"heat production, biomethane, at boiler condensing modulating <100kW","heat supply, Hotel Moeschberg, 2021",0.0
+10,23758,213981,"heat production, wood pellet, at furnace 25kW, state-of-the-art 2014","heat supply, Hotel Moeschberg, 2021",0.9953
+11,213978,213978,"electricity supply, Hotel Moeschberg, 2021","electricity supply, Hotel Moeschberg, 2021",1.0
+12,213978,213982,"electricity supply, Hotel Moeschberg, 2021","energy demand, operational, Hotel Moeschberg",32179.0
+13,213979,213978,"electricity supply, Energie Grosshoechstetten AG, 2021, guarantees of origin","electricity supply, Hotel Moeschberg, 2021",0.5594
+14,213979,213979,"electricity supply, Energie Grosshoechstetten AG, 2021, guarantees of origin","electricity supply, Energie Grosshoechstetten AG, 2021, guarantees of origin",1.0
+15,213980,213979,"electricity, subsidised, 2021","electricity supply, Energie Grosshoechstetten AG, 2021, guarantees of origin",0.067
+16,213980,213980,"electricity, subsidised, 2021","electricity, subsidised, 2021",1.0
+17,213981,213981,"heat supply, Hotel Moeschberg, 2021","heat supply, Hotel Moeschberg, 2021",1.0
+18,213981,213982,"heat supply, Hotel Moeschberg, 2021","energy demand, operational, Hotel Moeschberg",655489.0
+19,213982,213982,"energy demand, operational, Hotel Moeschberg","energy demand, operational, Hotel Moeschberg",1.0
